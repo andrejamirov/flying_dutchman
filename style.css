@@ -1,0 +1,93 @@
+body{
+background-image:url(море.jpg);}
+
+#header {
+	display:block;
+	width:900px;
+	height: 200px;
+	margin-top: 0px;
+	margin-left:auto;
+	margin-right: auto;
+	margin-bottom: -100px;
+	background: #00C9FF;
+	}
+	a{
+	color:#093EFF;}
+h1{
+	text-align:center;
+	font-size: 36px;
+	color:#00B21B;
+	margin: 0 auto;
+	font-family: franklin gothic medium;
+}
+p.header_1{
+	display:block;
+	width:800px;
+	font-size: 18px;
+	font-family:comic sans ms;
+	color: #093EFF;
+	text-align:center;
+	background: #00C9FF;
+
+}
+
+	
+#main{
+	display:block;
+	width:900px;
+	height: 1000px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	font-size:16px;
+	background: #00C9FF;
+	font-family: Bradley Hand, cursive;
+}
+div.theme1{
+	display:block;
+	width:400px;
+	margin-left: 50px;
+	float: left;
+	
+	}
+div.theme2{ 
+	display:block;
+	width: 400px;
+	float: left;
+	margin-left: 25px;
+}
+img.left{
+	width: 200px;
+	height: 150px;
+	float: left;
+	margin-right:10px;}
+img {
+	width: 200px;
+	height: 150px;
+	float: right;
+	margin-left: 10px; 
+}
+#footer{
+	display:block;
+	background: #00C9FF;
+	height: 130px;
+	width: 900px;
+	margin: -50px auto;
+	
+	
+	
+}
+div.foot{
+	display:block;
+	height:80px;
+	width: 900px;
+	margin: 15px auto;
+	
+}
+p.padding{ 
+	display:block;
+	margin-top: 30px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
